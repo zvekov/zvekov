@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-![image info](https://wakatime.com/share/@zvekov/e14f20a6-47dc-42d9-aa11-3459e2f3cf04.png)
-
 <!--
 **zvekov/zvekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
