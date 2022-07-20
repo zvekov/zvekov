@@ -4,7 +4,7 @@
 
 
 ### Languages & Tools
-![Vue](https://img.shields.io/badge/VUE-000?style=for-the-badge&logo=VUE)
+![Vue](https://img.shields.io/badge/VUE-000?style=for-the-badge&logo=vuedotjs)
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red)
