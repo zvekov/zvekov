@@ -15,5 +15,3 @@
 ![Eslint](https://img.shields.io/badge/Eslint-000?style=for-the-badge&logo=Eslint&logoColor=pink)
 ![Nuxtjs](https://img.shields.io/badge/Nuxtjs-000?style=for-the-badge&logo=nuxtdotjs&logoColor=beige)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=gold)
-
-![SCSS](https://camo.githubusercontent.com/804118485087954e4cc74dd73f90d14cf27912c265c24100da7dff6e53e6b15c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d)
